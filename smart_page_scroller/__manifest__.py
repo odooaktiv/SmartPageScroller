@@ -5,7 +5,7 @@
     'name': 'smart page scroller',
     'summary': 'product page in scroll button apply',
     'author': "Aktiv Software",
-    'website': "http://alhamdanconsulting.com/",
+    'website': "http://www.aktivsoftware.com",
     'depends': ['website_sale',
                 'sale_management',
                 'website', 'product'
