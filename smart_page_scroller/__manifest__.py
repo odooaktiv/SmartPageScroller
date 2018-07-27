@@ -1,6 +1,8 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
+# Part of Odoo. See LICENSE file for
+# full copyright and licensing details.
 {
-    'name': 'smart page scroller',
+    'name': 'Smart Page Scroller',
     'summary': 'product page in scroll button apply',
     'author': "Aktiv Software",
     'website': "http://www.aktivsoftware.com",
