@@ -1,4 +1,4 @@
-Open ERP System :- Odoo 11 Version 
+Open ERP System :- Odoo 12 Version 
 
 Installation 
 ============
@@ -7,6 +7,6 @@ Install the Application => Apps -> smart page scroller (Technical Name: smart_pa
 
 Version
 ========
-	Odoo 11 version
+	Odoo 12 version
 
 
