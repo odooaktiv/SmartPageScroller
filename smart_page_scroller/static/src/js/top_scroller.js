@@ -12,13 +12,11 @@ var _t = core._t;
         } else {
             $(back2top).fadeOut();
         }
-    });
-
     $(back2top).click(function(){
         $('html, body').animate({scrollTop : 0},"slow");
         return false;
     });
-
+    });
 });
 
 
